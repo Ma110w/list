@@ -1,0 +1,6 @@
+"When in Titan sight, a lock-on is established and won't be broken until the Titan sees another player.",
+"Titans infinitely pathfind and try to face where their locked-on player's x, y, z coordinates are.",
+"After a Titan stomps, they lose the ability to stomp for approximately 5 seconds.",
+"Stomping can be avoided by jumping just before their foot hits the ground.",
+"You can acquire the ability 'Butcher' to hit two different body parts during a slice.",
+"You can also acquire the ability 'Carnifex' to hit four different body parts during a slice.",
